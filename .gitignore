@@ -1,0 +1,6 @@
+
+*.dag
+*.dag
+*.outputdata
+*.dag_derived
+*.dag_fsmtime
