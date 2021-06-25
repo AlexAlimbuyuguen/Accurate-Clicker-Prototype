@@ -1,25 +1,16 @@
 fileFormatVersion: 2
-guid: 00041a30d2e72a543b1817163e3caa34
+guid: 9cc85ddab1de5eb4aa56ac041b1cc65d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4317028638255842898
-    second: Rusted_Coin_0
+      213: -6937972736058750908
+    second: Shiny Egg_0
   - first:
-      213: -6110588210771953696
-    second: Rusted_Coin_1
+      213: 7820991698459557507
+    second: Shiny Egg_1
   - first:
-      213: -8581108762285427030
-    second: Rusted_Coin_2
-  - first:
-      213: -43446397218022025
-    second: Rusted_Coin_3
-  - first:
-      213: 1456287280968924228
-    second: Rusted_Coin_4
-  - first:
-      213: 5008614451525584013
-    second: Rusted_Coin_5
+      213: -7565032781023491223
+    second: Shiny Egg_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -109,49 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rusted_Coin_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 120
-        width: 60
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2568d648caa29eb30800000000000000
-      internalID: 4317028638255842898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rusted_Coin_1
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 120
-        width: 60
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e77f38c564d23ba0800000000000000
-      internalID: -6110588210771953696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rusted_Coin_2
+      name: Shiny Egg_0
       rect:
         serializedVersion: 2
         x: 0
@@ -165,14 +114,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa63cfc9b07c9e880800000000000000
-      internalID: -8581108762285427030
+      spriteID: 4488fd53e8e57bf90800000000000000
+      internalID: -6937972736058750908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rusted_Coin_3
+      name: Shiny Egg_1
       rect:
         serializedVersion: 2
         x: 60
@@ -186,14 +135,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77d9c0f5bb5a56ff0800000000000000
-      internalID: -43446397218022025
+      spriteID: 38ef5f9238eb98c60800000000000000
+      internalID: 7820991698459557507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rusted_Coin_4
+      name: Shiny Egg_2
       rect:
         serializedVersion: 2
         x: 0
@@ -207,29 +156,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44c7219f095c53410800000000000000
-      internalID: 1456287280968924228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rusted_Coin_5
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 0
-        width: 60
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8402109e4c228540800000000000000
-      internalID: 5008614451525584013
+      spriteID: 96bc8e454ca930790800000000000000
+      internalID: -7565032781023491223
       vertices: []
       indices: 
       edges: []
@@ -237,7 +165,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d4acdbc857f48414291d90c81b0a057d
+    spriteID: 41ac77e1c03d6de4ab3ee6c3596f6e63
     internalID: 0
     vertices: []
     indices: 
