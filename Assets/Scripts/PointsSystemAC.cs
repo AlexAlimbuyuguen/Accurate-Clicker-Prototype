@@ -15,6 +15,11 @@ public class PointsSystemAC : MonoBehaviour
        // score = gameObject.GetComponent<Text>();
     }
 
+    private void OnMouseDown()
+    {
+        Destroy(gameObject);
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -26,4 +31,9 @@ public class PointsSystemAC : MonoBehaviour
         scoreAmount += 1; 
     }
 
+    //If the player presses on a hazardous object, the player will be sent to the endscreen scene. 
+    //void Kill()
+    //{
+    //if()
+    //}
 }
