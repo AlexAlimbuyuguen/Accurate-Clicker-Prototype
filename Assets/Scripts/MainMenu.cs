@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("TestEnvironment");
+        SceneManager.LoadScene("2DTest");
     }
 
     public void QuitGame()
@@ -18,5 +18,10 @@ public class MainMenu : MonoBehaviour
     public void ReturnToMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+
+    public void CreditsMenu()
+    {
+        SceneManager.LoadScene("CreditsMenu");
     }
 }
