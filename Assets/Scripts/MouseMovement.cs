@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MouseMovement : MonoBehaviour
 {
+    public GameObject canvasLink; 
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -17,6 +18,7 @@ public class MouseMovement : MonoBehaviour
                 if (bc != null)
                 {
                     Destroy(bc.gameObject);
+                    canvasLink.GetComponent<PointsSystemAC>().AddScore();
                 }
             }
 
