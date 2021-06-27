@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/2DTest.unity
     guid: 3f90d86ca314dae49aa3303cf71dc9d2
   - enabled: 1
+    path: Assets/Scenes/NoHazardMode.unity
+    guid: c90c70a83cdb2184881fcf4ff3a1cdb1
+  - enabled: 1
     path: Assets/Scenes/TestEnvironment.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1

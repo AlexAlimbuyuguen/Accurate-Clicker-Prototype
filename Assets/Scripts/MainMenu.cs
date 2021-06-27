@@ -24,4 +24,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("CreditsMenu");
     }
+
+    public void NoHazard()
+    {
+        SceneManager.LoadScene("NoHazardMode");
+    }
 }
