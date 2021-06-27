@@ -15,11 +15,6 @@ public class PointsSystemAC : MonoBehaviour
        // score = gameObject.GetComponent<Text>();
     }
 
-    private void OnMouseDown()
-    {
-        Destroy(gameObject);
-    }
-
     // Update is called once per frame
     void Update()
     {
